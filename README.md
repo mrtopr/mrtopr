@@ -62,9 +62,14 @@
 
 <h3 align="left">🔥 My Stats :</h3>
 
+<h3 align="left">🔥 My Stats :</h3>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mrtopr&theme=dark&hide_border=false" height="220" alt="streak graph" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mrtopr&show_icons=true&theme=dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtopr&layout=compact&theme=dark" height="180" />
+
+  ![streak graph](https://streak-stats.demolab.com?user=mrtopr&theme=dark&hide_border=false)
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrtopr&show_icons=true&theme=dark)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtopr&layout=compact&theme=dark)
+
 </div>
