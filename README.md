@@ -50,6 +50,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=40604&format=png&color=000000" height="40" alt="davinci logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=108781&format=png&color=000000" height="40" alt="AfterEffect logo" />
 </div>
 
 ###
