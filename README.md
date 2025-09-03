@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrtopr"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrtopr" />
 </div>
 
 ###
@@ -32,9 +32,9 @@
 
 <p align="left">
 - 🎓 I'm a Computer Engineering student<br>
-- 🔭 I’m working on frontend projects & creative websites<br>
-- 📚 Currently learning Flutter, Firebase, and AI-integrated apps<br>
-- 🎨 I love designing clean UI/UX and interactive websites<br>
+- 🔭 Working on frontend projects & creative websites<br>
+- 📚 Currently learning Flutter, Firebase & AI-integrated apps<br>
+- 🎨 Passionate about UI/UX design & interactive web apps<br>
 - ⚡ Fun fact: I enjoy photography & editing alongside coding
 </p>
 
@@ -63,7 +63,7 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mrtopr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=mrtopr&theme=dark&hide_border=false" height="220" alt="streak graph" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=mrtopr&show_icons=true&theme=dark" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtopr&layout=compact&theme=dark" height="180" />
