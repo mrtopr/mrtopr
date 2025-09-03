@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sachinkumar" target="_blank">
+  <a href="https://www.linkedin.com/in/isachin-kumar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.youtube.com/" target="_blank">
@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sachinkumar.sachinkumar"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrtopr"  />
 </div>
 
 ###
@@ -63,8 +63,8 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sachinkumar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=mrtopr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinkumar&show_icons=true&theme=dark" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinkumar&layout=compact&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrtopr&show_icons=true&theme=dark" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtopr&layout=compact&theme=dark" height="180" />
 </div>
