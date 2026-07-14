@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/c5/eb/05/c5eb05561c26dcd11228ed33cd3e707c.gif" alt="Banner" width="100%" />
+<img src="https://cdn.imageurlgenerator.com/uploads/f0910ace-b765-4322-989c-e60582284c10.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 💻 Building Full Stack Web Applications using MERN & PostgreSQL
