@@ -1,5 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Sachin Kumar</h1>
-<h3 align="center">Computer Engineering Student | Full Stack Developer | AI Enthusiast | UI/UX Designer</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Sachin%20Kumar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20UI%2FUX%20Designer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=mrtopr">
@@ -119,9 +118,6 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
-
-## 💬 Quote
-> "Building today what I imagined yesterday."
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
